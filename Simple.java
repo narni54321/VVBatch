@@ -1,4 +1,4 @@
-#asdfasdfasdfasdfasdf
+#asdfasdfasdfas
 
 class Simple{  
     public static void main(String args[]){  
